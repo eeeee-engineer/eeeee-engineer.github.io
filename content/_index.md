@@ -1,5 +1,4 @@
 +++
-cover = "/img/cover.png"
 title = "Resume for Christian R. Crank / +1-619-481-8887"
 first_name = "Christian"
 middle_name = "R."
