@@ -31,14 +31,13 @@ I am a Cyber Security Solutions Engineer that uses novel approaches as well as u
     [[page.expertise]]
     category = "Virtualization"
     skills = '''
-    KVM/libvirt, podman, docker-compose
+    KVM, podman, docker-compose
     '''
 
     [[page.expertise]]
     category = "Networking"
     skills = '''
-    OpenVPN, tcpdump, iptables/nftables(v0.9/1.0+), scapy, hping3, tcpreplay/bittwiste, TCP/IP(v4/v6)
-    PROXY Protocol
+    OpenVPN, tcpdump, iptables and nftables, hping3, tcpreplay
     '''
 
     [[page.expertise]]
@@ -48,17 +47,12 @@ I am a Cyber Security Solutions Engineer that uses novel approaches as well as u
     '''
 
     [[page.expertise]]
-    category = "Design"
-    skills = '''
-    HTML/CSS, Hugo,  Photoshop
-    '''
-
-    [[page.expertise]]
     remove_border = true
     category = "Other"
     skills = '''
     OPSEC, Physical Security Principles, Principle of Least Privilege, Responsible Disclosure
     '''
+
     [[page.history]]
     company_name = "Avertium"
     start_date = "Aug 2018"
