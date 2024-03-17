@@ -8,70 +8,54 @@ job_title = "Cyber Security Solutions Engineer"
 location = "Port Charlotte, Florida"
 telephone = "+1-619-481-8887"
 email = "cr4nk@protonmail.com"
-web = ""
 linkedin = "christian-crank"
-github = ""
-keybase = ""
 quote = '''
-At my core I am a systems administrator and software engineer. Starting in
-the year 2000, I grew up immersed in the Seattle tech and startup scene
-around other professional systems administrators, software engineers, and
-security researchers. I share the same undying passion for better software
-and technology with many of my professional colleagues and friends. I have
-sought to establish a strong, security-minded skill set throughout my career
-as well as a vital appreciation for productive technology that must
-interface with the non-technical world.
+I am a Cyber Security Solutions Engineer that uses novel approaches as well as utilizes "out-of-the-box" thinking to mitigate constantly evolving threats. Prior US Navy Cryptologic Technician (Networks) with minor red team and engineering roles for the Cyber Warfare Engineering Team (CWET) in Adelphi, MD under US Navy NIOC MD Department N5-7. I have worked at the National Security Agency (NSA) as a toolset analyst to ensure covertness and obfuscation of said toolsets remained in place. Once out of the military, I have become a security researcher and detection engineer that currently works in the Threat Intelligence sphere to research vulnerabilities and exploits, as well as the indicators of attack and compromise to help create detections for use in Security Information and Event Management (SIEM) and Endpoint Detection and Response (EDR) tools.
 '''
 
 [[page]]
     [[page.expertise]]
     category = "Programming"
     skills = '''
-    Bash, Python, PHP, C#, Javascript, C/C++, Golang, Rust
+    Bash, Python
     '''
 
     [[page.expertise]]
     category = "Operating Systems"
     skills = '''
-    Windows Server(2k, 3, 8, 16) Linux(SuSE/Kubic/Gentoo/Debian and advanced
-    Linux kernel concepts), FreeBSD, OpenBSD
+    Windows Server(2k, 3, 8, 16) Linux(Debian, SuSE, RHEL), FreeBSD, OpenBSD
     '''
 
     [[page.expertise]]
     category = "Virtualization"
     skills = '''
-    KVM/libvirt, containerd/cri-o, OpenvSwitch, Vagrant, podman,
-    docker-compose, Terraform, Helm
+    KVM/libvirt, podman, docker-compose
     '''
 
     [[page.expertise]]
     category = "Networking"
     skills = '''
-    OpenVPN, L2/L3 tunneling, tcpdump, iptables/nftables(v0.9/1.0+), eBPF,
-    iproute2, NetFlow, scapy, hping3, tcpreplay/bittwiste, TCP/IP(v4/v6)
-    PROXY Protocol, HTTP Forward/Reverse Proxying
+    OpenVPN, tcpdump, iptables/nftables(v0.9/1.0+), scapy, hping3, tcpreplay/bittwiste, TCP/IP(v4/v6)
+    PROXY Protocol
     '''
 
     [[page.expertise]]
     category = "AWS"
     skills = '''
-    S3, EC2, VPC, IAM, Route53, CloudFormation, Organizations, CloudWatch,
-    CloudTrail
+    S3, EC2, VPC, IAM
     '''
 
     [[page.expertise]]
     category = "Design"
     skills = '''
-    HTML/CSS, Hugo, WordPress, Django, Kdenlive, GIMP
+    HTML/CSS, Hugo,  Photoshop
     '''
 
     [[page.expertise]]
     remove_border = true
     category = "Other"
     skills = '''
-    DNSSEC, BCP38, principle of least privilege, ACME, SNI,
-    transaction isolation, eventual consistency, OpenID, JWT, SAML, responsible
-    disclosure, good faith hacking
+    OPSEC, Physical Security Principles, Principle of Least Privilege, Responsible Disclosure
     '''
     [[page.history]]
     company_name = "Upwork"
