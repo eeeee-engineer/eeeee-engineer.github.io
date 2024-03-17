@@ -8,6 +8,9 @@ location = "Port Charlotte, Florida"
 telephone = "+1-619-481-8887"
 email = "cr4nk@protonmail.com"
 linkedin = "christian-crank"
+github = "christian-crank"
+web = "https://christiancrank.net"
+keybase = "christian-crank"
 quote = '''
 I am a Cyber Security Solutions Engineer that uses novel approaches as well as utilizes "out-of-the-box" thinking to mitigate constantly evolving threats. Prior US Navy Cryptologic Technician (Networks) with minor red team and engineering roles for the Cyber Warfare Engineering Team (CWET) in Adelphi, MD under US Navy NIOC MD Department N5-7. I have worked at the National Security Agency (NSA) as a toolset analyst to ensure covertness and obfuscation of said toolsets remained in place. Once out of the military, I have become a security researcher and detection engineer that currently works in the Threat Intelligence sphere to research vulnerabilities and exploits, as well as the indicators of attack and compromise to help create detections for use in Security Information and Event Management (SIEM) and Endpoint Detection and Response (EDR) tools.
 '''
