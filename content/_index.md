@@ -57,38 +57,50 @@ I am a Cyber Security Solutions Engineer that uses novel approaches as well as u
     OPSEC, Physical Security Principles, Principle of Least Privilege, Responsible Disclosure
     '''
     [[page.history]]
-    company_name = "Upwork"
-    start_date = "Jun 2023"
-    end_date = "Jun 2023"
+    company_name = "Avertium"
+    start_date = "Aug 2018"
+    end_date = "Present"
     location = "Virtual"
-    job_title = "Freelance Software / Systems Engineer"
+    job_title = "Solutions Engineer/Detection Engineer"
     duties = [
     '''
-    Developing solutions with OpenVPN, FRR, and Ansible
+    Utilized multiple SIEM technologies to assist customers in creating a security profile, and building rules based on their specific infrastructures.
+    ''',
+    '''
+    Deployed these SIEM technologies on a variety of Hypervisor software, including but not limited to: VMWare/vSphere, Hyper-V, Azure, and AWS.
+    ''',
+    '''
+    Developed dozens of scripts in Python to gather information from multiple APIs including Alienvault Anywhere and BitDefender.
+    ''',
+    '''
+    Developed an API Calling Web Application utilizing Flask for USM Anywhere/Central.
+    ''',
+    '''
+    Worked with EDR teams to assist with SentinelOne, CarbonBlack, and Cisco AMP.
+    ''',
+    '''
+    Assisted in Information Assurance and DFIR during multiple breaches.
+    ''',
+    '''
+    Research into current vulnerabilities and exploits, as well as their indicators to create detections.
+    ''',
+    '''
+    Utilizing EKS to manage a Threat Intelligence platform and bring in information from other sources.
     '''
     ]
     
     [[page.history]]
-    company_name = "Amazon Web Services Inc."
-    start_date = "May 2015"
-    end_date = "Sep 2016"
-    location = "Seattle, Washington"
-    job_title = "Systems Engineer Level 4 - S3 Border Reliability"
+    company_name = "Private Contracting"
+    start_date = "Aug 2015"
+    end_date = "Jan 2016"
+    location = "McLean, VA"
+    job_title = "Private Contractor"
     duties = [
     '''
-    Planned, scheduled, and configured new hardware in Amazon’s datacenters
-    around the world to address network capacity needs and new capacity for
-    introduction of new availability regions.
+    Created and managed a small Search Engine Optimization framework in Python2.
     ''',
     '''
-    Assisted in the removal and much needed documentation of processes for
-    retiring deprecated infrastructure without affecting customers or
-    other services in the organization.
-    ''',
-    '''
-    Participated in a 24/7 on-call rotation to address and remediate
-    customer impacting events such as outages, software and hardware faults,
-    and denial of service attacks within service level agreements.
+    Utilized using pseudo-randomness to create human-like interlinking and mouse movement to create 'legitimate' looking traffic.
     ''']
 
     [[page.history]]
