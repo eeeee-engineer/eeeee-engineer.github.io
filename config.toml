@@ -1,0 +1,11 @@
+baseURL = "https://cv.paige.bio/"
+theme = "netcrave"
+googleAnalytics = "G-HRVBZNT4Z1"
+
+[module]
+  [[Module.mounts]]
+    source = "static/img"
+    target = "static/img"
+  [[Module.mounts]]
+    source = "static/dl"
+    target = "static/dl"
