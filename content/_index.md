@@ -180,17 +180,17 @@ I am a Cyber Security Solutions Engineer that uses novel approaches as well as u
 
     [[page.certifications]]
     remove_border = true
-    certification_name = "Microsoft Azure Fundamentals (AZ-900)"
-    start_date = "Feb 2022"
-    end_date = "Feb 2024"
+    certification_name = "Microsoft Azure Security Engineer Associate (AZ-500)"
+    start_date = "Jul 2022"
+    end_date = "Jul 2024"
     location = "Virtual"
     details = []
 
     [[page.certifications]]
     remove_border = true
-    certification_name = "Microsoft Azure Security Engineer Associate (AZ-500)"
-    start_date = "Jul 2022"
-    end_date = "Jul 2024"
+    certification_name = "Microsoft Azure Fundamentals (AZ-900)"
+    start_date = "Feb 2022"
+    end_date = "Feb 2024"
     location = "Virtual"
     details = []
 
