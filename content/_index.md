@@ -58,7 +58,7 @@ I am a Cyber Security Solutions Engineer that uses novel approaches as well as u
     start_date = "Aug 2018"
     end_date = "Present"
     location = "Virtual"
-    job_title = "Solutions Engineer/Detection Engineer"
+    job_title = "Solutions Engineer, Detection Engineer"
     duties = [
     '''
     Utilized multiple SIEM technologies to assist customers in creating a security profile, and building rules based on their specific infrastructures.
@@ -117,7 +117,7 @@ I am a Cyber Security Solutions Engineer that uses novel approaches as well as u
     [[page.history]]
     company_name = "TrainACE"
     location = "Greenbelt, MD"
-    job_title = "Security Researcher, Solutions Engineer"
+    job_title = "Security Researcher"
     start_date = "Apr 2013"
     end_date = "Sep 2013"
     duties = [
@@ -154,7 +154,7 @@ I am a Cyber Security Solutions Engineer that uses novel approaches as well as u
     [[page.history]]
     company_name = "US Navy, NIOC MD Dept. N5-7, Cyber Warfare Engineering Team (CWET)"
     location = "Adelphi, MD"
-    job_title = "Red Team Operator and Solutions Engineer"
+    job_title = "Red Team Operator, Solutions Engineer"
     start_date = "Nov 2011"
     end_date = "Aug 2012"
     duties = [
