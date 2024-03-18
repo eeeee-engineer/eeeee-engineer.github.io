@@ -101,30 +101,23 @@ I am a Cyber Security Solutions Engineer that uses novel approaches as well as u
     ''']
 
     [[page.history]]
-    company_name = "ATG Stores Inc."
-    location = "Kirkland, Washington"
-    job_title = "Software Engineer - Internal Tools Team"
-    start_date = "Jan 2014"
-    end_date = "May 2014"
+    company_name = "3e Services, LLC"
+    location = "McLean, VA"
+    job_title = "Junior Solutions Engineer, Sub-Contractor"
+    start_date = "Sep 2013"
+    end_date = "Aug 2015"
     duties = [
     '''
-    Developed applications in .NET for the internal tools team; anything from
-    adding new models and/or business logic in Dynamics AX/GP to a simple FTP
-    client designed specifically for the marketing team.
+    Created multiple STIG (Security Technical Information Guidelines) golden images that adhered to Defense Information Systems Agency (DISA) standards of server safety for a 3rd party while under contract
     ''',
     '''
-    Collaborated with the website team on resolving their backlog items;
-    Javascript errors that occur in specific views and not others, CSS
-    bugs, and minimizing false positives in the logging framework.
-    ''',
-    '''
-    Left the company to stay for a long term period in Greece with family.
+    Started development on an Electronic Medical Record (EMR) universal translator that would follow specifications in HL7 and FHIR to translate medical coding from one EMR system to another of opposing coding.
     ''']
 
     [[page.history]]
-    company_name = "ConnectXYZ LLC."
-    location = " Woodinville, Washington"
-    job_title = " Lead DevOps Engineer / Software Engineer"
+    company_name = "TrainACE"
+    location = "Greenbelt, MD"
+    job_title = "Security Researcher, Solutions Engineer"
     start_date = "May 2012"
     end_date = "Jun 2013"
     duties = [
@@ -170,63 +163,6 @@ I am a Cyber Security Solutions Engineer that uses novel approaches as well as u
     websites for Mr. Branning and his clients.
     ''']
 
-    [[page.history]]
-    company_name = "Onvia Inc. "
-    location = "Seattle, Washington"
-    job_title = "Software Engineer"
-    start_date = "Nov 2008"
-    end_date = "Mar 2009"
-    duties = [
-    '''
-    Developed a data migration platform in C#, LINQ, MSSQL, LINQ-to-SQL, WCF,
-    and WPF for the purpose of moving data from an older SQL 2000 database to
-    a newer ORM-based database and production environment.
-    ''']
-
-    [[page.history]]
-    company_name = "Zion Prepatory Academy"
-    location = "Seattle, Washington"
-    job_title = "IT Manager - Part-time"
-    start_date = "Dec 2007"
-    end_date = "Mar 2010"
-    duties = [
-    '''
-    Managed Active Directory, Exchange Server 2007, Google Apps for Education /
-    non-profits, accounting software, networking, and security for roughly 100
-    users; the entire K-6 school including faculty and students.
-    ''',
-
-    '''
-    Contributed my own hardware with no strings attached for the purpose of
-    getting things done the right way in a low budget environment.
-    ''',
-
-    '''
-    Provided help desk and computer repair for all school computers (many
-    rebuilds) running Windows XP with Office, student software, and managed in
-    active directory with several different OUs and varying group policy
-    configurations.
-    ''']
-
-    [[page.history]]
-    remove_border = true
-    company_name = "SeattleSoft Inc."
-    location = "Seattle, Washington"
-    job_title = "Software Engineer / Systems Administrator"
-    start_date = "Oct 2005"
-    end_date = "Mar 2007"
-    duties = [
-    '''
-    Developed an inventory management front-end application for PalmOS 4.x in
-    Metrowerks CodeWarrior which ran on Symbol SPT 1846 PalmOS-based PDAs. The
-    application could scan labels for products anywhere with WiFi access around
-    a warehouse and allows for remote management of inventory.
-    ''',
-
-    '''
-    Developed in Java, PHP, HTML, CSS, and JavaScript for Mr Williams and his
-    clients.
-    ''']
 
     [[page.certifications]]
     remove_border = true
