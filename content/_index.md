@@ -180,62 +180,66 @@ I am a Cyber Security Solutions Engineer that uses novel approaches as well as u
 
     [[page.certifications]]
     remove_border = true
-    certification_name = "Hurricane Electric IPv6"
-    title = "Sage"
-    start_date = "2022"
-    end_date = "2022"
+    certification_name = "Microsoft Azure Fundamentals (AZ-900)"
+    start_date = "Feb 2022"
+    end_date = "Feb 2024"
     location = "Virtual"
     details = []
 
-    [[page.presentations]]
+    [[page.certifications]]
     remove_border = true
-    presentation_name = "NFTables 1.x"
-    title = "Intro to NFTables 1.x"
-    start_date = "2022"
-    end_date = "2022"
+    certification_name = "Microsoft Azure Security Engineer Associate (AZ-500)"
+    start_date = "Jul 2022"
+    end_date = "Jul 2024"
     location = "Virtual"
+    details = []
+
+    [[page.certifications]]
+    remove_border = true
+    certification_name = "Alienvault Certified Security Engineer"
+    start_date = "Jun 2019"
+    end_date = "Jun 2022"
+    location = "Virtual"
+    details = []
+
+	[[page.certifications]]
+    remove_border = true
+    certification_name = "EC Council Certified Ethical Hacker"
+    start_date = "Jan 2013"
+    end_date = "Jan 2014"
+    location = "Virtual"
+    details = []
+
+	[[page.certifications]]
+    remove_border = true
+    certification_name = "EC Council Computer Hacking Forensic Investigator"
+    start_date = "Jan 2013"
+    end_date = "Jan 2014"
+    location = "Virtual"
+    details = []
+    
+    [[page.education]]
+    remove_border = true
+    institution = "US Navy"
+    degree = "Certification, Joint Cyber Analysis Course (JCAC)"
+    location = "Corry Station, FL"
+    end_date = "Sep 2011"
     details = [
     '''
-    https://paige.bio/nftables_presentation
+    900+ Hour course involving programming, Windows, Unix, Linux, networking, wireless networking, offensive cyber operations, defensive cyber operations, packet analysis, and malicious software analysis. Completed the Joint Cyber Analysis Course without failing any tests and with Honors with a 93% test average.
     ''']
 
     [[page.education]]
     remove_border = true
-    institution = "Bellevue Community College"
-    degree = "Associate Arts (A.A.) Computer Programming"
-    location = "Bellevue, WA"
-    start_date = "2005"
-    end_date = "2005"
+    institution = "Will C. Crawford High School"
+    degree = "High School Diploma"
+    location = "San Diego, CA"
+    end_date = "Sep 2010"
     details = [
     '''
-    Left prior to completing my degree to focus on work at Seattle Software
-    Systems.
+    AP Chemistry and Calculus.
+    ''',
+    '''
+    Mu Alpha Theta math honors society.
     ''']
-
-    [[page.activities]]
-    remove_border = true
-    name = "Netcrave Communications"
-    title = "Sole Proprietor"
-    location = "Virtual"
-    start_date = "2000"
-    end_date = "2019"
-    details = [
-    '''
-    Provided DNS, e-mail, website, shell acounts, and game server hosting as well
-    as static IPv4 and IPv6 tunnels.
-    ''',
-
-    '''
-    VPN, active network monitoring, and denial of service protection services.
-    ''',
-
-    '''
-    Developed several MVC web application development frameworks.
-    ''',
-
-    '''
-    Participated in independent security research to better understand the
-    nature of security problems on the modern internet.
-    ''']
-
 +++
