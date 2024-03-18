@@ -118,49 +118,63 @@ I am a Cyber Security Solutions Engineer that uses novel approaches as well as u
     company_name = "TrainACE"
     location = "Greenbelt, MD"
     job_title = "Security Researcher, Solutions Engineer"
-    start_date = "May 2012"
-    end_date = "Jun 2013"
+    start_date = "Apr 2013"
+    end_date = "Sep 2013"
     duties = [
     '''
-    Built server deployment and configuration automation with Opscode Chef on
-    Rackspace infrastructure; this entire stack included HAProxy, nginx,
-    PHP-fpm, Percona XtraDB cluster, Couchbase, OSSEC, munin, and nagios.
+    Leveraged VirtualBox and VMWare to create virtual lab environments for exploitation demos. Utilized custom scripts and known tools such as the MetaSploit Framework, Reaver/Aircrack, Bettercap, Hydra, and mutiple others.
     ''',
     '''
-    Developed custom Iptables and ISC Bind 9 chef cookbooks. The iptables
-    cookbook used chef-client registration information together with role-based
-    attributes to determine specific egress and ingress rules on both the
-    internal and external network planes without a need for one-off firewall
-    rules to be specified.
+    Stand in instructor for a Certified Ethical Hacker (CEH) Course.
     ''',
     '''
-    Assisted in planning a scheduled launch for a beta release with my team and
-    the service was made available to several clients for trial in December
-    2012.
+    Created new ideas for PR and Marketing and worked on these ideas to create write-ups and demos to be posted on company blogs and social media to attract customers.
+    ''',
+    '''
+    Spoke for TrainACE at multiple colleges, including Strayer University.
     ''']
 
 [[page]]
     [[page.history]]
-    company_name = "Acronym Media Inc."
-    location = "Telecommute"
-    job_title = "Software Engineer"
-    start_date = "Jan 2011"
-    end_date = "Jun 2013"
+    company_name = "US Navy, NIOC MD Dept. 10/14"
+    location = "National Security Agency, Fort Meade, MD"
+    job_title = "Tailored Access Operations/Remote Operations Center Analyst"
+    start_date = "Mar 2013"
+    end_date = "Aug 2012"
     duties = [
     '''
-    Assisted in the development of an SEO (KPI and insights dashboarding)
-    analytics platform using PHP Symfony, Highcharts.js, MySQL/Propel.
+    Analyzed various agency toolsets and tested them against dummy networks and multiple Personal Security Products (PSPs) and Anti Virus (AV) software to ensure toolset covertness and high-level obfuscation was present.
+    ''',
+    '''
+    Performed analysis on these toolsets due to loss of integrity and provided detailed reports to various high-level developers for further tool development.
+    ''',
+    '''
+    Used Agency-specific debugging tools as well as Windows-specific debugging software to discover malformed code or risks in multiple toolsets and provided extensive reports to assure the toolsets research and development met Agency standards.
     ''']
     [[page.history]]
-    company_name = "The Branning Group"
-    location = "Telecommute"
-    job_title = "Software Engineer - Part-Time"
-    start_date = "Jan 2010"
-    end_date = "Jan 2011"
+    company_name = "US Navy, NIOC MD Dept. N5-7, Cyber Warfare Engineering Team (CWET)"
+    location = "Adelphi, MD"
+    job_title = "Red Team Operator and Solutions Engineer"
+    start_date = "Nov 2011"
+    end_date = "Aug 2012"
     duties = [
     '''
-    Developed on Wordpress, drupal, Joomla, and custom PHP/MySQL/Javascript
-    websites for Mr. Branning and his clients.
+    Designed and used penetration testing tools using Perl scripting and physical media, such as wiretaps, "bad USBs", and other I/O devices.
+    ''',
+    '''
+    Directly involved with the development team to create and perform penetration tests against the CWET network infrastructure to assess network security and security policy to identify vulnerabilities and risk.
+    ''',
+    '''
+    Utilized open-source software to develop tools to augment the mission as necessary.
+    ''',
+    '''
+    Steganography using ASCII formatting with Microsoft Paint for use against anti-steganography detection tools to pass messages into the private test network.
+    ''',
+    '''
+    Installed and ran Cat5 Ethernet through the entire workspace, allowing our network infrastructure to scale across the workspace. Improved the networking schema to allow easier access to networking appiances.
+    ''',
+    '''
+    Alpha testing of the virtual 'multi-monitor', a multi-windowed Java platform that allowed different secured networks on one thin-client system. Performed debugging and provided reports to lead developers.
     ''']
 
 
